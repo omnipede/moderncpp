@@ -1,0 +1,1 @@
+add_executable(non_type_template_parameter main.cpp)

@@ -1,0 +1,1 @@
+add_executable(template_parameter_for_lambda main.cpp)

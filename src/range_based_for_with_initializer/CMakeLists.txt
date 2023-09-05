@@ -1,0 +1,1 @@
+add_executable(range_based_for_with_initializer main.cpp)

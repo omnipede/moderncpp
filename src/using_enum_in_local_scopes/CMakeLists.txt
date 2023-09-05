@@ -1,0 +1,1 @@
+add_executable(using_enum_in_local_scopes main.cpp)

@@ -1,0 +1,1 @@
+add_executable(conditionally_explicit_constructor main.cpp)

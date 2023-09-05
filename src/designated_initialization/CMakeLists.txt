@@ -1,0 +1,1 @@
+add_executable(designated_initialization main.cpp)
